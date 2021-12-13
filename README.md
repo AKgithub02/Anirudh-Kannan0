@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anirudh-Kannan0
+- 👋 Hi, I’m @AKgithub02
 - 👀 I’m interested in coding/unity/blender
 - 🌱 I’m currently learning C++ and unity
 - 💞️ I’m looking to collaborate on nothing
